@@ -1,18 +1,27 @@
-Olá, meu nome é CÁSSIO CAIANA e sou formado em Análise e Desenvolvimento de Sistemas pela Anhanguera. Com uma paixão por tecnologia e inovação, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades.
+<h2>Olá!! Eu sou Cássio Caiana</h2>
 
-
-###
-
-<div>
+<div style="display: inline_block"><br>
+  
   <a href="https://github.com/cassiocaiana89" >
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassiocaiana89&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiocaiana89&layout_compact&langs_count=16&theme=dark"/>
 </div>
-
+<hr>
+<div style="display: inline_block"><br>
+  <img align="center" alt="cas-c++" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="cas-c++" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="cas-c++" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="cas-c++" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="cas-c++" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="cas-c++" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></div>
+<hr> 
+<div>
+  <a href="https://www.linkedin.com/in/cassio-caiana-000a69245/" target="_blank"><img align="center" height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/cassio.caiana/" target="_blank"><img align="center" height="50"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/cassio.caiana/" target="_blank"><img align="center" height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.facebook.com/cassio.caiana/" target="_blank"><img align="center" height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
 
 
 
