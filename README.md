@@ -1,6 +1,6 @@
 <h2>Olá!! Eu sou Cássio Caiana</h2>
 
-<h3>.
+<h3>
 Compreensão em linguagens de programação como, c++, Python e JavaScript, bem como de metodologias ágeis e práticas de desenvolvimento de software.
 
 Além disso, possuo habilidades de resolução de problemas e uma mentalidade orientada para resultados, o que me permite enfrentar desafios complexos e entregar soluções de alta qualidade.
