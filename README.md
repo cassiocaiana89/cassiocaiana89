@@ -22,7 +22,7 @@ Vamos nos conectar no LinkedIn e GitHub para discutir como podemos colaborar jun
   <a href="https://www.linkedin.com/in/cassio-caiana-000a69245/" target="_blank"><img align="center" height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/cassio.caiana/" target="_blank"><img align="center" height="50"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="cassiocaiana89@gmail.com" target="_blank"><img align="center" height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/direct/inbox/" target="_blank"><img align="center" height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/" target="_blank"><img align="center" height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 </div>
 
